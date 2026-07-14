@@ -37,4 +37,4 @@ The array is traversed exactly once.
 
 O(1)
 
-Only one integer variable is used.
+Only one integer variable is used.  
