@@ -37,19 +37,7 @@ So the solution can simply return:
 true
 ```
 
----
 
-## ✅ Solution
-
-```java
-class Solution {
-    public boolean stoneGame(int[] piles) {
-        return true;
-    }
-}
-```
-
----
 
 ## ⏱ Time Complexity
 
